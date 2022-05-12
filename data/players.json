@@ -1,0 +1,22 @@
+[
+  {
+    "_id": {
+      "$oid": "627bbf9cf403d29febe67bb4"
+    },
+    "firstName": "Ann-Katrin",
+    "lastName": "Berger",
+    "club": "FC Chelsea",
+    "position": "Goal keeper",
+    "yearOfBirth": 1990
+  },
+  {
+    "_id": {
+      "$oid": "627bc11cf403d29febe67bb5"
+    },
+    "firstName": "Alexandra",
+    "lastName": "Popp",
+    "club": "FVL Wolfsburg",
+    "position": "Striker",
+    "yearOfBirth": 1991
+  }
+]
